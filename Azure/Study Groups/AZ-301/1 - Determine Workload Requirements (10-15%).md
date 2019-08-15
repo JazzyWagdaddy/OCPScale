@@ -1,6 +1,6 @@
 # Determine Workload Requirements (10-15%)
 
-## Gather Information and Requirements 
+##Gather Information and Requirements 
 May include but not limited to: Identify compliance requirements, identity and access management infrastructure, and service-oriented architectures (e.g., integration patterns, service design, service discoverability); identify accessibility (e.g. Web Content Accessibility Guidelines), availability (e.g. Service Level Agreement), capacity planning and scalability, deploy-ability (e.g., repositories, failback, slot-based deployment), configurability, governance, maintainability (e.g. logging, debugging, troubleshooting, recovery, training), security (e.g. authentication, authorization, attacks), and sizing (e.g. support costs, optimization) requirements; recommend changes during project execution (ongoing); evaluate products and services to align with solution; create testing scenarios.
 
 * [Identify compliance requirements](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/ready/azure-readiness-guide/govern-org-compliance?tabs=AzurePolicy)
